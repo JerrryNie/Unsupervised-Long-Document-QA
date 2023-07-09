@@ -1,0 +1,4 @@
+*.json
+*.tgz
+*.gz
+__pycache__/
