@@ -121,12 +121,21 @@ The result score will be saved in `ulqa_test_NarrativeQA.txt`.
 Please cite the paper in the following format if you use our model or dataset during your research.
 
 ```bibtex
-@article{nie2023attenwalker,
-  title={AttenWalker: Unsupervised Long-Document Question Answering via Attention-based Graph Walking},
-  author={Nie, Yuxiang and Huang, Heyan and Wei, Wei and Mao, Xian-Ling},
-  journal={arXiv preprint arXiv:2305.02235},
-  year={2023}
+@inproceedings{nie-etal-2023-attenwalker,
+    title = "{A}tten{W}alker: Unsupervised Long-Document Question Answering via Attention-based Graph Walking",
+    author = "Nie, Yuxiang  and
+      Huang, Heyan  and
+      Wei, Wei  and
+      Mao, Xian-Ling",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.862",
+    pages = "13650--13663",
 }
+
 ```
 
 ## Q&A
